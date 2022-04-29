@@ -1,0 +1,9 @@
+com\jpmchase\openam\nodes\NoSQLCustomAuthNode$Config.class
+com\jpmchase\openam\nodes\NoSQLCustomAuthNodeCopy$Config.class
+com\jpmchase\openam\utils\RestClient.class
+com\jpmchase\openam\nodes\NoSQLCustomAuthNodeCopy.class
+com\jpmchase\openam\nodes\NoSQLCustomAuthNode.class
+com\jpmchase\openam\nodes\NoSQLCustomAuthNode2$Config.class
+com\jpmchase\openam\nodes\NoSQLCustomAuthNode2.class
+com\jpmchase\openam\nodes\NoSQLCustomAuthNodePlugin.class
+com\jpmchase\openam\utils\DBUtils.class
